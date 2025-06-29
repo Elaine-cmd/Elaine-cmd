@@ -39,7 +39,7 @@ Here are some projects I’m building as part of my learning journey and mission
 <!-- SKILLS -->
 ## 🛠️ Tech Stack & Tools
 
-```html
+html
 Languages:        JavaScript | Python | Bash | C  
 Backend:          Node.js | Express | Flask (learning)
 Databases:        MySQL | MongoDB
