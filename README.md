@@ -46,4 +46,17 @@ Databases:        MySQL | MongoDB
 Tools:            Git | GitHub | Postman | Figma | VS Code | Linux CLI
 Learning:         Docker | API Design | System Design
 
+## 🤝 Let’s Connect!
+
+I'm always open to learning, collaborating, or just talking about cool tech ideas!
+
+<p align="center">
+  <a href="mailto:elainengunu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-elainengunu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/elaine-waithera-4a8411365" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Elaine_Waithera-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
